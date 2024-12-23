@@ -1,0 +1,31 @@
+pre {
+  padding: 10px;
+  overflow-x: auto;
+  max-height: 500px;
+  border-radius: 5px;
+  margin: 15px 0;
+  border: 1px solid #ffffff17;
+  font-size: 14px;
+}
+
+code span {
+  font-family: var(--font-geist-mono);
+}
+/* pre,
+code {
+}
+.highlighted {
+  border-radius: 3px;
+  padding: 2px 0;
+  background-color: #3b82f64d;
+}
+.add {
+  border-radius: 3px;
+  padding: 2px 0;
+  background-color: #3bf6994d;
+}
+.remove {
+  border-radius: 3px;
+  padding: 2px 0;
+  background-color: #f63b3b4d;
+} */
